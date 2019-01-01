@@ -162,6 +162,10 @@ div.speak-heading {
   font-family: 'Raleway';
 }
 
+div.speak-heading-strong {
+  font-weight: 900 !important;
+}
+
 
 
 p.promo {
