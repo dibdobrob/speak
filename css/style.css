@@ -147,7 +147,6 @@ h3 {
   font-size: 1.2em !important;
   margin: 30px 0;
   font-weight: 900 !important;
-  background-color: rgba(244,158,48,1);
   display: block;
   background-size: cover;
   display: table;
@@ -157,9 +156,10 @@ h3 {
   padding-left: 15px;
   padding-bottom: 3px;
   padding-top: 3px;
-  color: #fff;
-  font-variant: small-caps;
-  
+  color: #000000;
+  text-align:center;
+  font-family: 'Raleway';
+ 
 }
 
 p.promo {
