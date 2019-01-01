@@ -145,7 +145,7 @@ h2 {
 }
 
 div.speak-heading {
-  font-weight: 300 !important;
+  font-weight: 300;
   font-size: 1.2em !important;
   margin: 30px 0;
   display: block;
@@ -162,7 +162,7 @@ div.speak-heading {
   font-family: 'Raleway';
 }
 
-div.speak-heading-strong {
+.speak-heading-strong {
   font-weight: 900 !important;
 }
 
