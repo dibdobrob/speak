@@ -1,5 +1,13 @@
 /*@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);*/
 
+img.site_hero_image {
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 250px;
+}
+
 section.site_heading {
   /*background-image: url('http://traffordtrails.co.uk/images/header_one.png');*/
   background-color:  #ffffff;
@@ -230,12 +238,7 @@ p.img-topright {
     background-color: rgba(0, 0, 0, 0.498039); 
 }
 
-img.site_hero_image {
-    display: block;
-    margin-top: 60px;
-    margin-left: auto;
-    margin-right: auto 
-}
+
 
 header a,
 section.hero a,
