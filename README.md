@@ -1,4 +1,6 @@
-> This is a work in progress (not yet live) site for Dragons Running Club Sale. Powered by Jekyll.
+> This is a site for Speak.events - a not for profit organisation aimed at helping people to find their voice and learn to speak in public.
+
+> This site is Powered by Jekyll.
 
 ## Credits
 
