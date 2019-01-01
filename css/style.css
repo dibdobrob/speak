@@ -144,11 +144,8 @@ h2 {
   color: #000 !important;
 }
 
-div.speak {
-font-weight: 900 !important;
-}
-
-h3 {
+div.speak-heading {
+  font-weight: 300 !important;
   font-size: 1.2em !important;
   margin: 30px 0;
   display: block;
@@ -163,8 +160,9 @@ h3 {
   color: #000000;
   text-align:center;
   font-family: 'Raleway';
- 
 }
+
+
 
 p.promo {
   font-size: 1.2em !important;
