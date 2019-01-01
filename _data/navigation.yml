@@ -1,6 +1,6 @@
-- name: Home
+- name: Vision
   link: /
-- name: Results
-  link: /results/
-- name: News
-  link: /news/
+- name: Advice
+  link: /advice/
+- name: Events
+  link: /events/
