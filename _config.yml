@@ -8,9 +8,9 @@ name: Speak
 # Short bio or description (displayed in the header)
 description: Helping the world to find its voice 15 minutes at a time
 
-primaryfont: nahnah
+primaryfont: Raleway
 
-secondaryfont: blablabla
+secondaryfont: Cabin
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
