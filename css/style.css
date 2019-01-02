@@ -71,7 +71,7 @@ div.article {
    padding-bottom: 5px;
    padding-left: 15px;
    padding-right: 15px;
-   font-family: 'Raleway';
+   font-family: '{% site.primaryfont %}';  
 }
 
 div.collection {
