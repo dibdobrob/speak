@@ -64,7 +64,7 @@ div.article {
 }
 
 a.left:link, a.left:visited, a.middle:link, a.middle:visited, a.right:link, a.right:visited {
-   color: white;
+   color: black;
    text-align: center;
    text-decoration: none;
    display: inline-block;
