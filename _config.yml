@@ -9,10 +9,15 @@ name: Speak
 description: Helping the world to find its voice 15 minutes at a time
 
 primaryfont: Lato
-
 secondaryfont: Raleway
-
 tertiaryfont: Open Sans
+
+color1:#d8fcfa
+color2:#fce1d8
+color3:#fcf3d8
+color4:#e9d8fc
+color5:#fce1d8
+color6:#96e3df
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
