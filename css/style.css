@@ -74,6 +74,24 @@ div.article {
    padding-right: 15px;
 }
 
+div.bottom_left {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color:  #fcd8da;
+}
+
+div.bottom_middle {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color:  #fcd8eb;
+}
+
+div.bottom_right {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color:  #e9d8fc;
+}
+
 div.collection {
 }
 
@@ -514,6 +532,7 @@ label {
     .col-1 {width: 0%;}
     .col-6 {width: 100%;}
     .col-11 {width: 100%;}
+    .col-4  {width: 100%;}
     .quick-nav li {width: 100%;}
 }
 
