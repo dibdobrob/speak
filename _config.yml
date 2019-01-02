@@ -1,5 +1,5 @@
 #
-# This file contains configuration flags to customize your site
+# This file contains configuration flags to customize your site and some other stuff
 #
 
 # Name of your site (displayed in the header)
@@ -24,6 +24,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Adds collections
 collections:
   - topics
+  - pictures
 
 # Includes an icon in the footer for each username you enter
 footer-links:
