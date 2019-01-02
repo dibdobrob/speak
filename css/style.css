@@ -63,23 +63,13 @@ div.article {
    padding-right: 15px;
 }
 
-div.bottom_left {
-   padding-top: 5px;
-   padding-bottom: 5px;
-   background-color:  #fcd8da;
-   font-weight: 400;
-   font-size: 1.2em;
-}
-
-a.left:link, a.left:visited {
-  
+a.left:link, a.left:visited, a.middle:link, a.middle:visited, a.right:link, a.right:visited {
    color: white;
    text-align: center;
    text-decoration: none;
    display: inline-block;
    padding-top: 5px;
    padding-bottom: 5px;
-   background-color:  #fcd8da;
    font-weight: 500;
    font-size: 1.2em;
    text-align: center;
@@ -87,26 +77,26 @@ a.left:link, a.left:visited {
    width: 100%;
 }
 
-a.left:hover, a.left:active {
+a.left:link, a.left:visited 
+{ 
+   background-color:  #fcd8da;
+}
+
+a.middle:link, a.middle:visited 
+{
+   background-color:  #fcd8eb;
+}
+
+a.right:link, a.right:visited 
+{
+   background-color:  #e9d8fc;
+}
+
+a.left:hover, a.left:active, a.middle:hover, a.middle:active, a.right:hover, a.right:active 
+{
   background-color: #96e3df;
 }
 
-
-div.bottom_middle {
-   padding-top: 5px;
-   padding-bottom: 5px;
-   background-color:  #fcd8eb;
-   font-weight: 400;
-   font-size: 1.2em;
-}
-
-div.bottom_right {
-   padding-top: 5px;
-   padding-bottom: 5px;
-   background-color:  #e9d8fc;
-   font-weight: 400;
-   font-size: 1.2em;
-}
 
 div.collection {
 }
