@@ -1,6 +1,6 @@
 ---
 layout: basic_page_layout
-postref: 003
+postref: block3
 title: "What makes us diferent?"
 subtitle: "What makes us diferent?"
 categories: what
