@@ -26,10 +26,12 @@ nav {
 }
 
 @media screen and (max-width: 768px) {
-  nav {
+  nav { 
+	  a {
     max-width: 85px;
     text-overflow: clip;
     overflow: hidden;
     white-space: nowrap;
-  }
+	  }
+	}
 }
