@@ -4,53 +4,34 @@ hero_text: What are SPEAK.events and why do they exist?
 title: What are speak events?
 ---
 
-<div class="row"> 
+     <div class="row"> 
      
      <div class="col-1 menu">
-          <div class="void"> </div>
+     <div class="void"> </div>
      </div>
   
-     <div class="col-6 menu">            
-     <div class="article">
-  
-     <div class="speak-heading">
-          Backround
-     </div>
+     {% for post in site.posts %} 
+     {% if post.postref == "block1" %}
      
-     Our vision is to help the world find its voice. A human voice, spoken in public, with confidence and with purpose.
+     {% include textblock.html %}
+
+     {% endif %}
+     {% endfor %}
+
      
-     </br></br>You don't just become a great public speaker over night or deliver a word class TED talk by accident.  
-     It takes knowledge, practice and feedback to master the skill. 
+     {% for post in site.posts %} 
+     {% if post.postref == "block2" %}
      
-     </br></br>If you bring the ideas we'll give you the knowledge, a stage to practice and host of listeners eager to provide you with the feedback you will need to improve.
+     {% include textblock.html %}
 
-     </div>
-     </div>
-
-     <div class="col-6 menu">          
-     <div class="article">
-  
-     <div class="speak-heading">
-          Event structure
-     </div>
-                one hour
-           </br>one host
-           </br>three speakers
-           </br>three ideas to share
-           </br>three fifteen minute talks
-           </br>nine listers
-           </br>twenty seven feedback oppoertunities
-           </br>twenty seven opportunities to inspire
-          
-     </div>
-     </div>
-
+     {% endif %}
+     {% endfor %}
      
      <div class="col-1 menu">
      <div class="void"> </div>
      </div>
      
-</div>
+     </div>
 
 
      <div class="row"> 
@@ -60,7 +41,7 @@ title: What are speak events?
      </div>
   
      {% for post in site.posts %} 
-     {% if post.postref == "block2" %}
+     {% if post.postref == "block3" %}
      
      {% include textblock.html %}
 
@@ -69,7 +50,7 @@ title: What are speak events?
 
      
      {% for post in site.posts %} 
-     {% if post.postref == "block3" %}
+     {% if post.postref == "block4" %}
      
      {% include textblock.html %}
 
@@ -81,8 +62,3 @@ title: What are speak events?
      </div>
      
      </div>
-
-
-xxxx
-
-     
