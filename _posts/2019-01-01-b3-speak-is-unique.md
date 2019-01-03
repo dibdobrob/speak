@@ -1,7 +1,7 @@
 ---
 layout: basic_page_layout
-postref: block3
 title: "What makes us diferent?"
+postref: block3
 subtitle: "What makes us diferent?"
 categories: what
 ---
