@@ -6,11 +6,18 @@ subtitle: "Event structure"
 categories: what
 ---
 
-one hour 
+one hour
+
 one host 
-three speakers 
-three ideas to share 
-three fifteen minute talks 
+
+three speakers
+
+three ideas to share
+
+three fifteen minute talks
+
 nine listers 
-twenty seven feedback oppoertunities 
+
+twenty seven feedback oppoertunities
+
 twenty seven opportunities to inspire
