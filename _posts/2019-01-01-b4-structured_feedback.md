@@ -1,7 +1,7 @@
 ---
 layout: basic_page_layout
 title: "Structured feedback"
-postref: "Block4"
+postref: block4
 subtitle: "Structured feedback"
 categories: what
 ---
