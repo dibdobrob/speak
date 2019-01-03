@@ -53,23 +53,27 @@ title: What are speak events?
 </div>
 
 
-<div class="row"> 
+     <div class="row"> 
      
      <div class="col-1 menu">
           <div class="void"> </div>
      </div>
   
-     <div class="col-6 menu">            
+     {% for post in site.posts %} 
+     {% if post.postref == "block2" %}
+     <div class="col-6 menu">          
      <div class="article">
   
      <div class="speak-heading">
-          Content heading 3
+          {{ post.title }}
      </div>
-     
-         Content 3
-
+             
+     {{ post.content }}
+    
      </div>
      </div>
+     {% endif %}
+     {% endfor %}
 
      
      {% for post in site.posts %} 
