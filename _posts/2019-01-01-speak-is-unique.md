@@ -12,6 +12,6 @@ Imagine a workplace or a community where everyone is armed with with the ability
 
 With that in mind we invite people to speak about what ever inspires them. It's all about you, it is about your personal growth, your confidence and your ability to make a great impact on the world ahead of you.
 
-We offer knowledge, the opportunity to practive and most importantly feedback.
+We offer knowledge, the opportunity to practice and most importantly feedback.
 
 Feedback is key, without it we will all stand still.
