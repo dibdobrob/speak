@@ -7,10 +7,10 @@ categories:
   - what
 ---
 
-We nurture aspiring public speakers.
+We nurture aspiring public speakers to give every idea the opportunity it deserves.
 
-To give every idea the launchpad it deserves.
+Whilst we are at it, we invoke confidence and happiness in people whose ideas might just change the world in which we live.
 
-In the hope that those ideas will change the world in which we live.
+We do this by...
 
-> We do this by helping aspiring speakers to learn how to create great talks and giving them the chance to practice in a safe, feedback orientated environment.
+> *Helping aspiring speakers to learn how to create great talks and giving them the chance to practice in a safe, feedback orientated environment.*
