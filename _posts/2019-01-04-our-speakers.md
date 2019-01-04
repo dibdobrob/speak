@@ -14,5 +14,3 @@ Ok, that's the easy bit. Now you need to study and prepare, what we refer to as 
 We will help you by sending you our study notes as soon as we get you on the schedule. In the meantime we have set up a [YouTube channel](https://www.youtube.com/playlist?list=PLCsgBcByO61513fsxOT_rrN5AP4tj3rVQ){: target="_blank"} with all of our favourite videos for you to watch. We have also included a couple at the bottom of this page.
 
 Nervous? Doubtful? Anxious? Don't be. Drop us a mail letting us know how you are feeling and we will do our best to help, that's what we are here for.
-
-&nbsp;
