@@ -16,6 +16,12 @@ img.inline_article_image {
     margin-top: 20px; 
 }
 
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 15px;
+}
+
 section.page_heading {
   background-color:  #E0FBFA;
   
@@ -284,7 +290,7 @@ footer a {
 }
 
 
-/*------------------ Top menu using images------------------- */
+/*------------------ Top menu using images------------------- 
 
 nav.main-nav ul {
   height: 60px;
@@ -304,7 +310,7 @@ nav.main-nav a {
   float: right;
 }
 
- /*------*/
+ ------*/
 
 
 /*------------------ Top menu using text------------------- 
@@ -332,10 +338,11 @@ nav.main-nav a {
 
  */
 
-/*------------------ Content Item Menu ------------------- */
+/*------------------ Content Item Menu -------------------
 
 .menu ul {
     list-style-type: none;
+    list-style-type: square;
     margin: 0;
     padding: 15px;
 }
@@ -353,10 +360,10 @@ nav.main-nav a {
 }
 
 
-/*--------------- */
+--------------- */
 
 
-/*------------------ Quick Nav Menu ------------------- */
+/*------------------ Quick Nav Menu ------------------- 
 
 .quick-nav ul {
     list-style-type: none;
@@ -384,7 +391,7 @@ nav.main-nav a {
     text-decoration: none;
 }
 
-/*--------------- */
+--------------- */
 
 
 
