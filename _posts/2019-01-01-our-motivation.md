@@ -1,15 +1,13 @@
 ---
 layout: basic_page_layout
-title: Why did we create Speak?
+title: Our motivation
 postref: block1
 subtitle: Why did we create Speak?
 categories:
   - what
 ---
 
-We don't think enough ideas are heard and this makes us sad! Sad enough to want to do something about it.
-
-We decided to ask people why they don't share their ideas and this is what they said.
+We don't think enough ideas are heard and this makes us sad! Sad enough to want to do something about it. We decided to ask people why they don't share their ideas and this is what they said....
 
 * I don't know how to present my idea [Ability]
 * I don't know who to tell about my idea [Opportunity]
