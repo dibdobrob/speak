@@ -7,8 +7,12 @@ categories:
   - How
 ---
 
-Getting to speak at one of our events is easy, simply get your name on the schedule by emailing [speakfor15@gmail.com](mailto:speakfor15@gmail.com?subject=Please%20can%20I%20speak%20at%20one%20of%20your%20events&amp;body=Hi%20Speak%20Crew%2C%20%0A%0APretty%20please.%20Please%2C%20please%20and%20please%20again.%0A%0ALet%20me%20speak%20at%20one%20of%20your%20events%3A%0A%0AName%3A%0ATopic%3A%0AMonth%3A%0A%0AThanks%2C)
+Getting to speak at one of our events is easy, simply get your name on the schedule by emailing [speakfor15@gmail.com](mailto:speakfor15@gmail.com?subject=Please%20can%20I%20speak%20at%20one%20of%20your%20events&amp;body=Hi%20Speak%20Crew%2C%20%0A%0APretty%20please.%20Please%2C%20please%20and%20please%20again.%0A%0ALet%20me%20speak%20at%20one%20of%20your%20events%3A%0A%0AName%3A%0ATopic%3A%0AMonth%3A%0A%0AThanks%2C). Tell us why you want to speak with us, what you would like to speak about and when you think you will be ready.
 
-&nbsp;study, preparation and turn up.
+Ok, that's the easy bit. Now you need to study and prepare, what we refer to as '***Doing the work*'**.&nbsp;
 
-Our events are for anyone and everyone. From those that have never spoken to a public audience to the seasoned pro just looking to refine their craft.&nbsp;<br><br>It isn't just about the presenting though, every event provides the unique opportunity to learn about topics and experiences that you may never come accross at a normal 'industry' event. Our events are special and we hope that every one of them broadens the knowledge and insight of each of our participants.<br><br>Something that makes us different is that feedback is an essential part of what we do, our speakers are here to grow and they need your honest feedback to do that.
+We will help you by sending you our study notes as soon as we get you on the schedule. In the meantime we have set up a [YouTube channel](https://www.youtube.com/playlist?list=PLCsgBcByO61513fsxOT_rrN5AP4tj3rVQ){: target="_blank"} with all of our favourite videos for you to watch. We have also included a couple at the bottom of this page.
+
+Nervous? Doubtful? Anxious? Don't be. Drop us a mail letting us know how you are feeling and we will do our best to help, that's what we are here for.
+
+&nbsp;
