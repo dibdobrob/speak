@@ -1,10 +1,11 @@
 ---
+title: Our events
+date: 2019-01-01 00:00:00 Z
+categories:
+- what
 layout: basic_page_layout
 postref: block2
-title: Our events
 subtitle: This is what to expect at one of our events
-categories:
-  - what
 ---
 
 * **One** hour,&nbsp;**One** host

@@ -1,9 +1,12 @@
 ---
+title: A guide to speaking
+date: 2019-01-01 00:00:00 Z
+categories:
+- advice
 layout: basic_page_layout
-title: "A guide to speaking"
-subtitle: "How to create a great talk"
-categories: advice
+subtitle: How to create a great talk
 ---
+
 Step 1. Find an idea you want to share
 Step 2. Develop an unexpected and/or catchy way to state your idea
 Step 3. Collect anything and everything that relates to your idea

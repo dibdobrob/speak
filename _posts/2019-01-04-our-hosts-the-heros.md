@@ -1,10 +1,11 @@
 ---
-layout: basic_page_layout
 title: Our hosts ('The Hero's')
+date: 2019-01-04 00:00:00 Z
+categories:
+- How
+layout: basic_page_layout
 postref: block7
 subtitle: How to become one of our hosts
-categories:
-  - How
 ---
 
 Without event hosts we wouldn't exist. Our event hosts should really be referred to as Hero's and once you have hosted your first event that is exactly what you will be.&nbsp;

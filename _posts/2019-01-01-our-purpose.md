@@ -1,10 +1,11 @@
 ---
-layout: basic_page_layout
 title: Our purpose
+date: 2019-01-01 00:00:00 Z
+categories:
+- what
+layout: basic_page_layout
 postref: block0
 subtitle: This is what we hope to achieve
-categories:
-  - what
 ---
 
 We nurture aspiring public speakers to give every idea the opportunity it deserves.

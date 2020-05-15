@@ -1,10 +1,11 @@
 ---
-layout: basic_page_layout
 title: Our feedback ethos
+date: 2019-01-01 00:00:00 Z
+categories:
+- what
+layout: basic_page_layout
 postref: block4
 subtitle: This is why we care so much about feedback
-categories:
-  - what
 ---
 
 We care about feedback because without it we cannot improve, we cannot grow and we cannot launch our ideas into the big bad world.

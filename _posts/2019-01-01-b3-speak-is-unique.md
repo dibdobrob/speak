@@ -1,9 +1,11 @@
 ---
+title: What makes us diferent?
+date: 2019-01-01 00:00:00 Z
+categories:
+- what
 layout: basic_page_layout
-title: "What makes us diferent?"
 postref: block3
-subtitle: "What makes us diferent?"
-categories: what
+subtitle: What makes us diferent?
 ---
 
 We care about creating great speakers and through them filling the world with ideas.

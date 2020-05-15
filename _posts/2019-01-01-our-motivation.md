@@ -1,10 +1,11 @@
 ---
-layout: basic_page_layout
 title: Our motivation
+date: 2019-01-01 00:00:00 Z
+categories:
+- what
+layout: basic_page_layout
 postref: block1
 subtitle: Why did we create Speak?
-categories:
-  - what
 ---
 
 We don't think enough ideas are heard and this makes us sad! Sad enough to want to do something about it. We decided to ask people why they don't share their ideas and this is what they said....

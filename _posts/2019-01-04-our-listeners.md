@@ -1,10 +1,11 @@
 ---
-layout: basic_page_layout
 title: Our listeners
+date: 2019-01-04 00:00:00 Z
+categories:
+- what
+layout: basic_page_layout
 postref: block6
 subtitle: How to become one of our listeners
-categories:
-  - what
 ---
 
 You don't need to be an expert public speaker to be a listener, you don't even need to have stood in front of an audience.
